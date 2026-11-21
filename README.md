@@ -9,6 +9,10 @@
 An unofficial Nintendo Switch wrapper for the Android version of
 **Asphalt 7: Heat**, built on the a6_nx runtime.
 
+
+[![Switch](https://img.shields.io/badge/Nintendo_Switch-Homebrew-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=white)](#)
+[![ARM](https://img.shields.io/badge/ARM-32--bit-0091BD?style=for-the-badge&logo=arm&logoColor=white)](#)
+[![Download a7_nx.nro](https://img.shields.io/github/v/release/7UNC46/a7_nx?include_prereleases&label=Download%20A7_NX.nro&style=for-the-badge&logo=nintendoswitch&logoColor=white&color=2EA44F)](https://github.com/7UNC46/a7_nx/releases/latest/download/a7_nx.nro)
 </div>
 
 ---
@@ -80,14 +84,6 @@ A `libAndroid.so` in the folder always takes precedence over the one in the APK.
 
 `config.ini` (written at the first start): `fps` (30/60), `steer_mode`
 (stick, motion, both), `motion_invert`, `boost`, resolution and texture format.
-
---- | --- |
-| Left Stick | Steer (as the phone's tilt) |
-| D-Pad, A, B | Android D-pad, centre, back |
-| X / Y / R / ZL / ZR | Android gamepad keys (Xperia Play layout) |
-| + / - | Start / select |
-| L | Pointer on/off: Right Stick moves it, ZR taps |
-| Touchscreen | Touch in handheld mode |
 
 ---
 
