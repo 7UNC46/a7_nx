@@ -39,8 +39,7 @@ Known issues:
 each thread), `[shader]`.
 
 The port was made with one build of the library:
-`libAndroid.so`, md5 `c2aadf216032fa46faecb1e5de49ba06`, 20 723 436 bytes. That build came from
-a modified APK. Other builds of the same version (main 1060, patch 1110) should work, because the port
+`libAndroid.so` 20 723 436 bytes. Other builds of the same version (main 1060, patch 1110) should work, because the port
 finds everything by name and not by address.
 
 ---
